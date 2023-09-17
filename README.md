@@ -1,6 +1,4 @@
-@[TOC](超详细！魔改为中文sqlmap的使用教程)
-## 
-魔改了一版中文版的SQLMAP，如下图：
+## 魔改了一版中文版的SQLMAP，如下图：
 
  下面是由猫鼠信安团队，魔改为中文版的sqlmap，Qitian功能参数一模一样，
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/801ec7ff2c8f4432a525ec7aaefa913e.png)
