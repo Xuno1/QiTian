@@ -7,6 +7,9 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/60382cf2fe6c4b42b7e8794955f4b747.png)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5731ccf6bf5a4cba88eb9bdbbe8dc8ac.png)
 
+Qitian 2.0版，进知识星球获取
+![5f9524e1555bdcc62ac91e92e5a1eaf](https://github.com/Xuno1/QiTian/assets/65332064/f5d32700-5320-4a58-aaf1-3a254026de28)
+
 
 
 
